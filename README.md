@@ -30,11 +30,11 @@ A Flutter application that connects to a Laravel backend to manage books, allowi
 - Install Flutter and Dart
 - Install an emulator or connect a physical device
 
-#🛠 Tech Stack
+# 🛠 Tech Stack
 
-##Backend: Laravel, MySQL
-##Frontend: Flutter, Dart
-##API Communication: RESTful API with http package
+## Backend: Laravel, MySQL
+## Frontend: Flutter, Dart
+## API Communication: RESTful API with http package
 
 # 📝 Future Improvements
 
