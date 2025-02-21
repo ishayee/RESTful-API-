@@ -1,8 +1,8 @@
-# my_api
+# Book Management App
 
-A new Flutter project.
+A Flutter application that connects to a Laravel backend to manage books, allowing users to add, edit, delete, and view book records.
 
-## Getting Started
+## Features
 
 This project is a starting point for a Flutter application.
 
